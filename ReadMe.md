@@ -2,6 +2,8 @@
 
 ![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.83&color=40AEF0&style=for-the-badge)
 
+我的博客：[https://zji.me/](https://zji.me/)
+
 ## 简介
 
 自用的一些 Obsidian 模板、脚本、片段等。需要搭配对应插件使用。

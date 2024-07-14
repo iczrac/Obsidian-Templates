@@ -219,7 +219,7 @@ const get_big_number = number => {
 ctx.font = contentFont
 /** @type {Array} */
 const content = [[]]
-const note = opt.note ? dv.page('Index/Ticket-Content.md') : dv.current()
+const note = opt.note ? dv.page(opt.note) : dv.current()
 note.file.lists.forEach(t=>{
   content.push([])
   if(t.text==='') return
